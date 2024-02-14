@@ -1,0 +1,2 @@
+# Plabase
+ projeto usando biopython 
